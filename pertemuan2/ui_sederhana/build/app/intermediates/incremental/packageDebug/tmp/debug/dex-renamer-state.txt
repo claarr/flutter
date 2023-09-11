@@ -1,0 +1,4 @@
+#Sun Sep 10 23:38:56 WIB 2023
+base.0=E\:\\SEMESTER 5\\PEMROGRAMAN MOBILE\\Praktikum\\pertemuan2\\ui_sederhana\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

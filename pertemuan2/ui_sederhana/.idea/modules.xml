@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ui_sederhana.iml" filepath="$PROJECT_DIR$/ui_sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ui_sederhana_android.iml" filepath="$PROJECT_DIR$/android/ui_sederhana_android.iml" />
+    </modules>
+  </component>
+</project>
