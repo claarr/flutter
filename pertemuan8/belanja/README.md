@@ -2,6 +2,7 @@
 # Kelas : TI-3G
 # NIM : 2141720213
 ## UTS Pemrograman Mobile
+## Link : https://github.com/claarr/flutter/tree/main/pertemuan8/belanja
 
 ## Praktikum 5 - Membangun Navigasi di Flutter
 ### Langkah 1 : Siapkan Project Baru
