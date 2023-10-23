@@ -91,10 +91,10 @@ class MyApp extends StatelessWidget {
         body: Column(
           children: [
             Image.asset(
-              '/img/cobanTalun.jpg',
+              'img/cobanTalun.jpg',
               width: 600,
               height: 240,
-              fit: BoxFit.cover,
+              fit: BoxFit.fitWidth,
             ),
             titleSection,
             buttonSection,

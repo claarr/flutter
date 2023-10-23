@@ -169,4 +169,4 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 
 Output :
 
-![Alt text](image.png)
+![Alt text](flutter_02.png)
