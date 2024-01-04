@@ -1,8 +1,8 @@
-**Nama: Evi Amalia Midfia**
+**Nama: Clarita Putri Anggraeni**
 
-**Kelas: TI-3A**
+**Kelas: TI-3G**
 
-**Absen: 13**
+**Absen: 07**
 
 # Praktikum Pertemuan 12 - Dasar State Management
 ### Tugas Praktikum 1 : Dasar State dengan Model-View
