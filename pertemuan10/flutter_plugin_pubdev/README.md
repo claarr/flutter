@@ -2,6 +2,7 @@
 ## Nama : Clarita Putri Anggraeni
 ## Kelas : TI-3G
 ## NIM : 2141720213
+### Github : https://github.com/claarr/flutter/tree/main/pertemuan10/flutter_plugin_pubdev
 
 ### Langkah 1 : Buat Project Baru
 Buatlah sebuah project flutter baru dengan nama flutter_plugin_pubdev. Lalu jadikan repository di GitHub Anda dengan nama flutter_plugin_pubdev.
